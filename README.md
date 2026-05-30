@@ -1,6 +1,6 @@
 # IntelliGuard: Secure and Energy-Efficient Fog-Integrated UAV Surveillance
 
-**Paper:** A Secure and Energy-Efficient Fog-Integrated UAV Surveillance Framework Using IntelliGuard and DPAFIO  
+**Article:** A Secure and Energy-Efficient Fog-Integrated UAV Surveillance Framework Using IntelliGuard and DPAFIO  
 **Journal:** Discover Computing, Springer Nature  
 **Authors:** Dhanvanth Kumar Gude, Vamshi Krishna Raavi, Mohit Lalit, Anurag Jain, Bhupesh Kumar Dewangan
 
