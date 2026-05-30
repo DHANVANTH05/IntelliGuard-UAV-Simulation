@@ -2,6 +2,7 @@
 
 **Article:** A Secure and Energy-Efficient Fog-Integrated UAV Surveillance Framework Using IntelliGuard and DPAFIO  
 **Journal:** Discover Computing, Springer Nature  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 **Authors:** Dhanvanth Kumar Gude, Vamshi Krishna Raavi, Mohit Lalit, Anurag Jain, Bhupesh Kumar Dewangan
 
 ---
